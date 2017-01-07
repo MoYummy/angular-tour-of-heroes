@@ -1,4 +1,5 @@
 {
     "output-path": "docs/",
-    "base-href": "/angular-tour-of-heroes/"
+    "base-href": "/angular-tour-of-heroes/",
+    "port": 4201
 }
